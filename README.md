@@ -4,6 +4,5 @@
 > Testato con Flask 1.0.2
 
 Il codice è stato opportunatamente commentato.
-
-> Per riportare bug o dubbi, scrivere a s.sensini[at]gruppoisc.org Il codice verrà aggiornato continuamente.
+ scrivere a serena.sensini Il codice verrà aggiornato continuamente.
 
